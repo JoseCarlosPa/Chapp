@@ -1,0 +1,67 @@
+.back_header_transparent{
+    background-image: url("images/fondo_trans.png");
+}
+
+.back_header_color{
+    background: rgba(87,166,250,1);
+    background: -moz-linear-gradient(-45deg, rgba(87,166,250,1) 0%, rgba(92,13,166,1) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(87,166,250,1)), color-stop(100%, rgba(92,13,166,1)));
+    background: -webkit-linear-gradient(-45deg, rgba(87,166,250,1) 0%, rgba(92,13,166,1) 100%);
+    background: -o-linear-gradient(-45deg, rgba(87,166,250,1) 0%, rgba(92,13,166,1) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(87,166,250,1) 0%, rgba(92,13,166,1) 100%);
+    background: linear-gradient(135deg, rgba(87,166,250,1) 0%, rgba(92,13,166,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#57a6fa', endColorstr='#5c0da6', GradientType=1 );
+}
+
+.logo_icons_padding{
+    margin-left: 15%;
+}
+.logo_icons2_padding{
+    margin-right: 5%;
+    margin-left: 30%;
+}
+
+h2{
+    color: white;
+    font-weight: 700;
+    font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+.font_header{
+    color: #FFDBDBDB;
+    font-size: 100%;
+    font-family: Helvetica;
+
+}
+.container_middle{
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.back_pregunta{
+    background-image: url("images/Rectangle01.png");
+    background-repeat: no-repeat;
+}
+
+.font_pregunta{
+    margin-left: 10%;
+    color: rgba(26,35,126,1);
+    font-size: 150%;
+    font-family: Montserrat-Bold;
+    font-weight: bolder;
+}
+.font_middle{
+    margin-left: 10%;
+    color: rgb(0, 0, 0);
+    font-size: 100%;
+    font-family: Montserrat-Bold;
+    font-weight: normal;
+}
+.button_2{
+    background: transparent;
+    border: transparent;
+}
+
+.images_icons{
+    margin-left: 15%;
+}
