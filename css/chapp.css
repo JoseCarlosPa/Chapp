@@ -3,6 +3,13 @@
 
 }
 
+.back_white{
+    background-image: url("images/back.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
 .back_header_color{
     background: rgba(87,166,250,1);
     background: -moz-linear-gradient(-45deg, rgba(87,166,250,1) 0%, rgba(92,13,166,1) 100%);
@@ -152,4 +159,58 @@ h2{
 .icn_padding{
     margin-left: 45%;
     margin-right: 5%;
+}
+
+.button_ver_mas{
+    color: white;
+    font-size: 100%;
+    font-weight: normal;
+    width: 15%;
+    height: 10%;
+    background: transparent;
+    border-radius: 60px 60px 60px 60px;
+    -moz-border-radius: 60px 60px 60px 60px;
+    -webkit-border-radius: 60px 60px 60px 60px;
+    border: 2px solid rgba(255, 242, 239, 0.84);
+
+
+}
+
+.button_inicar{
+    margin-left: 40%;
+    color: white;
+    font-size: 100%;
+    font-weight: normal;
+    width: 15%;
+    height: 65%;
+    background: transparent;
+    border-radius: 60px 60px 60px 60px;
+    -moz-border-radius: 60px 60px 60px 60px;
+    -webkit-border-radius: 60px 60px 60px 60px;
+    border: 2px solid rgba(255, 242, 239, 0.84);
+}
+
+.button_registrar{
+    margin-left: 5%;
+    color: white;
+    font-size: 100%;
+    font-weight: normal;
+    width: 15%;
+    height: 65%;
+    background: transparent;
+    border-radius: 60px 60px 60px 60px;
+    -moz-border-radius: 60px 60px 60px 60px;
+    -webkit-border-radius: 60px 60px 60px 60px;
+    border: 2px solid rgba(255, 242, 239, 0.84);
+}
+
+
+hr {
+    background-color: rgba(83, 83, 83, 0.46);
+    height: 2px;
+    border: 0;
+    color: rgba(83, 83, 83, 0.46);
+}
+.image_mock{
+    margin-right: 0;
 }
